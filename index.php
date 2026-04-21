@@ -1,3 +1,3 @@
 <?php
-echo "<h1>CineRate Started</h1>";
+echo "<h1>Started</h1>";
 ?>
