@@ -3,7 +3,29 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/faisa/Documents/GitHub/CineRate/index.php</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/creator/edit_book.php</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/sql/db.sql</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/admin/dashboard.php</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/admin/manage-books.php</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/admin/manage-comments.php</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/admin/manage-users.php</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/admin/reports.php</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/ajax/add-comment.php</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/assets/css/style.css</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/assets/js/main.js</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/assets/js/validation.js</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/config/db.php</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/creator/add_book.php</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/creator/dashboard.php</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/creator/preview_book.php</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/includes/auth.php</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/includes/footer.php</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/includes/header.php</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/book-details.php</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/index.php</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/login.php</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/logout.php</file>
+            <file>file:/C:/Users/faisa/Documents/GitHub/BookVerse/register.php</file>
         </group>
     </open-files>
 </project-private>
