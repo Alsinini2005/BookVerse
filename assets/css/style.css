@@ -1,9 +1,147 @@
-/*
-Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
-Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
-*/
-/* 
-    Created on : 21 Apr 2026, 3:49:45 PM
-    Author     : faisa
-*/
 
+body {
+    background-color: #f0f4f0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #1a2e1a;
+}
+
+.navbar {
+    box-shadow: 0 2px 8px rgba(0,80,0,.15);
+    background-color: #1b4332 !important;
+}
+.navbar-brand {
+    font-weight: 700;
+    font-size: 1.5rem;
+    letter-spacing: .5px;
+    color: #d8f3dc !important;
+}
+.nav-link {
+    color: #b7e4c7 !important;
+}
+.nav-link:hover {
+    color: #ffffff !important;
+}
+
+.hero-banner {
+    background: linear-gradient(135deg, #1b4332 0%, #2d6a4f 50%, #40916c 100%);
+    color: #fff;
+    border-radius: 14px;
+    padding: 3rem 2rem;
+    text-align: center;
+}
+.hero-banner h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    letter-spacing: .5px;
+    margin-bottom: .5rem;
+}
+.hero-banner p {
+    font-size: 1.1rem;
+    opacity: .9;
+    margin: 0;
+}
+
+.card {
+    border: 1px solid #c8e6c9;
+    border-radius: 10px;
+    transition: box-shadow .2s;
+    background-color: #ffffff;
+}
+.card:hover {
+    box-shadow: 0 4px 16px rgba(0,80,0,.12) !important;
+}
+.card-header {
+    border-radius: 10px 10px 0 0 !important;
+    background-color: #1b4332 !important;
+    color: #ffffff;
+}
+
+.book-card {
+    overflow: hidden;
+}
+.book-list-img {
+    height: 100%;
+    min-height: 220px;
+    max-height: 280px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: 10px 0 0 10px;
+    aspect-ratio: 2 / 3;
+}
+
+.auth-card {
+    margin-top: 2rem;
+}
+
+.btn {
+    border-radius: 7px;
+    font-weight: 500;
+}
+.btn-dark {
+    background-color: #1b4332;
+    border-color: #1b4332;
+}
+.btn-dark:hover {
+    background-color: #2d6a4f;
+    border-color: #2d6a4f;
+}
+
+.form-control,
+.form-select {
+    border-radius: 7px !important;
+    border-color: #a8d5b5;
+}
+.form-control:focus,
+.form-select:focus {
+    border-color: #40916c;
+    box-shadow: 0 0 0 .2rem rgba(64,145,108,.2);
+}
+
+.table {
+    background-color: #fff;
+}
+.table thead th {
+    font-weight: 600;
+    font-size: .875rem;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+    background-color: #1b4332;
+    color: #ffffff;
+}
+
+.badge {
+    font-weight: 500;
+    font-size: .8rem;
+    padding: .35em .65em;
+}
+.badge.bg-dark {
+    background-color: #1b4332 !important;
+}
+
+.page-link {
+    color: #2d6a4f;
+}
+.page-item.active .page-link {
+    background-color: #2d6a4f;
+    border-color: #2d6a4f;
+}
+
+footer {
+    font-size: .875rem;
+    letter-spacing: .02em;
+    background-color: #1b4332 !important;
+    color: #b7e4c7 !important;
+}
+footer a {
+    color: #b7e4c7 !important;
+}
+
+.alert {
+    border-radius: 8px;
+}
+
+#commentsList .card {
+    border-left: 3px solid #40916c;
+    border-radius: 0 8px 8px 0;
+}

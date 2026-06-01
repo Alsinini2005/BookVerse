@@ -1,7 +1,10 @@
 <?php
-
-/* 
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHP.php to edit this template
- */
-
+require_once "config/db.php";
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+}
+session_unset();
+session_destroy();
+header("Location: " . BASE_URL . "/login.php");
+exit();
+?>
